@@ -1,3 +1,9 @@
+/* CIS 9440, Week 2
+SQL: PostgreSQL */
+
+-- 1. create 3 tables with data about US National Parks
+-- 2. insert values into the 3 created tables
+
 -- create table Parks with summary information about US National Parks
 CREATE TABLE Parks
 (
