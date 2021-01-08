@@ -22,4 +22,4 @@ The data in the Schema contains details about 58 US National Parks:
 5. Click "Build Schema"
 6. Practice SQL commands on the right side of the SQL Fiddle window
 
-![Alt text](sqlfiddle_img.png)
+![Alt text](Data/sqlfiddle_img.png)
